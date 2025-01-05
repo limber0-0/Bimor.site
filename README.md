@@ -15,7 +15,7 @@ A modern web application that transforms your descriptions into production-ready
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-program-generator.git
+git clone https://github.com/limber0-0/Bimor.site
 cd ai-program-generator
 ```
 
